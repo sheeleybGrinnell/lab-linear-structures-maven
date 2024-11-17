@@ -52,7 +52,6 @@ public class ArrayBasedQueueExperiment {
     expt.isEmpty();
     */
 
-    /*
     // An iteration experiment, once we've workd out some kinks (Ray?)
     expt.put("a");
     expt.put("b");
@@ -63,7 +62,6 @@ public class ArrayBasedQueueExperiment {
     expt.get();
     expt.get();
     expt.get();
-     */
     
     /*
     // Future tests, once we've worked out some more kinks (Pete
